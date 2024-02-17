@@ -2,7 +2,7 @@
 
 <a href="https://wakatime.com/@018bfe19-bdc8-4b4b-8c9f-065b1f4f8ab2"><img src="https://wakatime.com/badge/user/018bfe19-bdc8-4b4b-8c9f-065b1f4f8ab2.svg" alt="Total time coded since Nov 23 2023" /></a>
 
-## 📖 &nbsp;About Me 
+## 📖 &nbsp;About Me
 
 #### 🎓 &nbsp;&nbsp;A Computer Science student.
 
@@ -13,4 +13,5 @@
 ---
 
 ### Programming Languages & Skills
-![languages & skills](https://skillicons.dev/icons?i=py,java,rust,php,html,css,js,git,mysql,tensorflow,linux,emacs,vscode)
+
+![languages & skills](https://skillicons.dev/icons?i=py,java,rust,php,c,django,html,css,react,redux,js,git,github,mysql,postgres,tensorflow,linux,emacs,vscode)
