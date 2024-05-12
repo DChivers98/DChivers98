@@ -14,4 +14,4 @@
 
 ### Programming Languages & Skills
 
-![languages & skills](https://skillicons.dev/icons?i=py,java,rust,php,html,css,js,git,github,mysql,tensorflow,linux,emacs)
+![languages & skills](https://skillicons.dev/icons?i=py,java,rust,php,html,css,js,git,mysql,tensorflow,linux,emacs,neovim)
