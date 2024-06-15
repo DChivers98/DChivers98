@@ -12,4 +12,4 @@
 
 ### Programming Languages & Skills
 
-![languages & skills](https://skillicons.dev/icons?i=py,java,rust,elixir,php,dart,html,css,js,git,mysql,tensorflow,linux,emacs,neovim)
+![languages & skills](https://skillicons.dev/icons?i=py,java,rust,elixir,php,html,css,js,git,mysql,tensorflow,linux,emacs,neovim)
