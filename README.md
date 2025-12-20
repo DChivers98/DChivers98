@@ -2,7 +2,7 @@
 
 ## 📖 &nbsp;About Me
 
-#### 🎓 &nbsp;&nbsp;A Software Engineer.
+#### 👨🏼‍💻 &nbsp;&nbsp;A Software Engineer.
 
 #### 🏎️ &nbsp;&nbsp;A car enthusiast.
 
