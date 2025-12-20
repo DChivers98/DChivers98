@@ -2,14 +2,14 @@
 
 ## 📖 &nbsp;About Me
 
-#### 🎓 &nbsp;&nbsp;A Computer Science student.
+#### 🎓 &nbsp;&nbsp;A Software Engineer.
 
 #### 🏎️ &nbsp;&nbsp;A car enthusiast.
 
-#### 🚴🏻 &nbsp;&nbsp;An annoying cyclist.
+#### 🏋 &nbsp;&nbsp;An avid gym goer.
 
 ---
 
 ### Programming Languages & Skills
 
-![languages & skills](https://skillicons.dev/icons?i=py,java,elixir,php,html,css,js,git,mysql,tensorflow,linux,neovim)
+![languages & skills](https://skillicons.dev/icons?i=py,go,elixir,php,ts,html,css,react,vue,flutter,laravel,git,mysql,postgres,docker)
